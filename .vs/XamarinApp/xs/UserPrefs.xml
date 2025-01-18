@@ -1,6 +1,47 @@
 ﻿<Properties StartupConfiguration="{5A184A8F-4D63-4BFC-881C-865E1703157A}|Default">
-  <MonoDevelop.Ide.ItemProperties.XamarinApp.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.XamarinApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinApp/XamarinApp/View/PersonPage.xaml.cs">
+    <Files>
+      <File FileName="XamarinApp/XamarinApp/MainPage.xaml.cs" Line="28" Column="54" />
+      <File FileName="XamarinApp/XamarinApp/MainPage.xaml" Line="5" Column="28" />
+      <File FileName="XamarinApp/XamarinApp/App.xaml.cs" Line="19" Column="10" />
+      <File FileName="XamarinApp/XamarinApp/Model/ProductInfo.cs" Line="6" Column="26" />
+      <File FileName="XamarinApp/XamarinApp/Services/IProductRepository.cs" Line="22" Column="1" />
+      <File FileName="XamarinApp/XamarinApp/Model/Person.cs" Line="15" Column="1" />
+      <File FileName="XamarinApp/XamarinApp/Services/DatabaseService.cs" Line="27" Column="10" />
+      <File FileName="XamarinApp/XamarinApp/View/PersonPage.xaml" Line="15" Column="1" />
+      <File FileName="XamarinApp/XamarinApp/View/PersonPage.xaml.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinApp" expanded="True">
+            <Node name="XamarinApp">
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="PersonPage.xaml" expanded="True">
+                  <Node name="PersonPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.2.0" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.XamarinApp FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.XamarinApp.Android PreferredExecutionTarget="Android.pixel_5_-_api_30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/View/PersonPage.xaml.cs" relfile="XamarinApp/XamarinApp/View/PersonPage.xaml.cs" line="30" column="1" />
+      <Breakpoint file="/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/View/PersonPage.xaml.cs" relfile="XamarinApp/XamarinApp/View/PersonPage.xaml.cs" line="14" column="1" />
+      <Breakpoint file="/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/View/PersonPage.xaml.cs" relfile="XamarinApp/XamarinApp/View/PersonPage.xaml.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinApp.iOS FirstBuild="True" />
 </Properties>

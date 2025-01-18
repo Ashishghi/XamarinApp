@@ -1,0 +1,17 @@
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.csproj.AssemblyReference.cache
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/View/PersonPage.xaml.g.cs
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.AssemblyInfoInputs.cache
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.AssemblyInfo.cs
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.csproj.CoreCompileInputs.cache
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.sourcelink.json
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/bin/Debug/netstandard2.0/XamarinApp.deps.json
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/bin/Debug/netstandard2.0/XamarinApp.dll
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/bin/Debug/netstandard2.0/ref/XamarinApp.dll
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/bin/Debug/netstandard2.0/XamarinApp.pdb
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.dll
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/refint/XamarinApp.dll
+/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp/obj/Debug/netstandard2.0/XamarinApp.pdb
