@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{5A184A8F-4D63-4BFC-881C-865E1703157A}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinApp.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.XamarinApp.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinApp FirstBuild="True" />
+</Properties>

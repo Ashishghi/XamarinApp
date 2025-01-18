@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VXSHRqxHuNaHiMdoLEXxI+g/9Ms6KomqGnHXAw61m0uduGAWnDb0IIXON8w+M3V3+jueZJ/BMdxyKlQYiyxuQw==",
+  "success": true,
+  "projectFilePath": "/Users/ashishgupta/Projects/XamarinApp/XamarinApp/XamarinApp.iOS/XamarinApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ashishgupta/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ashishgupta/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/ashishgupta/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
